@@ -8,6 +8,9 @@ title.toUpperCase();
 title.slice(0, 6);
 //Vyřízněte z názvu posledních pět písmen.
 title.slice(6,);
+//DRUHA VAARIANTA
+title.slice(-5);
+console.log(title.slice(-5))
 //ukol2
 
 let mail = prompt('Zadejte e-mail ve formatu (jmeno.prijmeni@domena):');
